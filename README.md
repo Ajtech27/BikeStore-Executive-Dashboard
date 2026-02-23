@@ -151,7 +151,7 @@ This dashboard enables executives to:
 
 ## 📷 Dashboard Preview
  
-![Executive Dashboard Overview](images/dashboard-overview.png)
+![Executive Dashboard Overview](https://github.com/Ajtech27/BikeStore-Executive-Dashboard/blob/main/Image%201.png)
 
 ### Check out the Interactive Dashboard on Tableau Public
 ![Interactive Dashboard Link](https://public.tableau.com/views/BikeStoreDashboard_17717755504580/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
